@@ -1,0 +1,16 @@
+C:\Users\ariel\Desktop\pruebaEpidata\restaurante-El-FIFI\bin\Debug\net5.0\restaurante-El-FIFI.exe
+C:\Users\ariel\Desktop\pruebaEpidata\restaurante-El-FIFI\bin\Debug\net5.0\restaurante-El-FIFI.deps.json
+C:\Users\ariel\Desktop\pruebaEpidata\restaurante-El-FIFI\bin\Debug\net5.0\restaurante-El-FIFI.runtimeconfig.json
+C:\Users\ariel\Desktop\pruebaEpidata\restaurante-El-FIFI\bin\Debug\net5.0\restaurante-El-FIFI.runtimeconfig.dev.json
+C:\Users\ariel\Desktop\pruebaEpidata\restaurante-El-FIFI\bin\Debug\net5.0\restaurante-El-FIFI.dll
+C:\Users\ariel\Desktop\pruebaEpidata\restaurante-El-FIFI\bin\Debug\net5.0\ref\restaurante-El-FIFI.dll
+C:\Users\ariel\Desktop\pruebaEpidata\restaurante-El-FIFI\bin\Debug\net5.0\restaurante-El-FIFI.pdb
+C:\Users\ariel\Desktop\pruebaEpidata\restaurante-El-FIFI\obj\Debug\net5.0\restaurante-El-FIFI.csproj.AssemblyReference.cache
+C:\Users\ariel\Desktop\pruebaEpidata\restaurante-El-FIFI\obj\Debug\net5.0\restaurante-El-FIFI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ariel\Desktop\pruebaEpidata\restaurante-El-FIFI\obj\Debug\net5.0\restaurante-El-FIFI.AssemblyInfoInputs.cache
+C:\Users\ariel\Desktop\pruebaEpidata\restaurante-El-FIFI\obj\Debug\net5.0\restaurante-El-FIFI.AssemblyInfo.cs
+C:\Users\ariel\Desktop\pruebaEpidata\restaurante-El-FIFI\obj\Debug\net5.0\restaurante-El-FIFI.csproj.CoreCompileInputs.cache
+C:\Users\ariel\Desktop\pruebaEpidata\restaurante-El-FIFI\obj\Debug\net5.0\restaurante-El-FIFI.dll
+C:\Users\ariel\Desktop\pruebaEpidata\restaurante-El-FIFI\obj\Debug\net5.0\ref\restaurante-El-FIFI.dll
+C:\Users\ariel\Desktop\pruebaEpidata\restaurante-El-FIFI\obj\Debug\net5.0\restaurante-El-FIFI.pdb
+C:\Users\ariel\Desktop\pruebaEpidata\restaurante-El-FIFI\obj\Debug\net5.0\restaurante-El-FIFI.genruntimeconfig.cache

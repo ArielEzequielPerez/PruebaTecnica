@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "restaurante-El-FIFI/1.0.0": {
+        "runtime": {
+          "restaurante-El-FIFI.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "restaurante-El-FIFI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
